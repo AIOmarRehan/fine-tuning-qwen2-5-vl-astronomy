@@ -1,0 +1,8 @@
+gradio>=5.0.0
+torch
+unsloth
+peft
+accelerate
+sentencepiece
+transformers==4.56.2
+Pillow
